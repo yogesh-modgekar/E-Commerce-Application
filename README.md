@@ -1,7 +1,7 @@
 
 # Clone the Repository :
 
-
+- git clne https://github.com/yogesh-modgekar/E-Commerce-Application.git
 # Features :
 
 - Render the list of products in the ProductList component.
